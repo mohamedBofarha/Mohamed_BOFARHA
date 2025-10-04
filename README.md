@@ -1,19 +1,17 @@
-# 👋 Hi, I'm Mohamed Bofarha
+#  Hi, I'm Mohamed Bofarha
 
 **Final Year Robotics Engineering Student** passionate about embedded systems, autonomous robotics, and ADAS technologies.
 
-📍 Based in Morocco | 📫 Contact: your-email@example.com | [LinkedIn](#) | [GitHub](https://github.com/mohamedBofarha)
+ Based in Morocco | Contact: bofarha.mohamed@Gmail.com | [LinkedIn](#) | [GitHub](https://github.com/mohamedBofarha)
 
 ---
 
 ## 🚀 About Me
-- Developing embedded systems, mobile robotics, and autonomous navigation projects  
-- Exploring SLAM, sensor fusion, ROS2, and real-time systems  
-- Interested in computer vision, ADAS, and robotics automation  
+I am a final-year Robotics Engineering student with a strong passion for embedded systems, robotics, and automotive technologies. My academic background and projects have given me solid skills in programming (Python, C/C++), embedded development, computer vision, and control of robotic systems. I am particularly interested in ADAS and autonomous systems, where I aim to apply my knowledge to real-world applications. I am currently seeking a PFE internship opportunity to contribute to innovative and challenging projects while further developing my expertise in robotics and embedded systems. 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming
 Python | C++ | C | MATLAB | SQL | VHDL
@@ -32,32 +30,26 @@ MATLAB/Simulink | STM32CubeIDE | Proteus | CATIA | RViz | Gazebo | Quartus | VS 
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 ### 🚗 Autonomous Mobile Robot with Computer Vision
 **Python, OpenCV, Raspberry Pi**  
 Implemented real-time lane detection and autonomous navigation using PiCamera.  
 
-### 🅿️ Parking Assistance System
+###  Parking Assistance System
 **C++, Arduino, OpenCV**  
 Simulated autonomous parking with obstacle detection and vehicle recognition using multiple sensors.  
 
-### 🗺️ Robot SLAM
+###  Robot SLAM
 **Python, ROS, OpenCV**  
 SLAM implementation in complex labyrinth environments for autonomous navigation.  
 
-### 📡 Embedded Robot-Station Communication
+###  Embedded Robot-Station Communication
 **STM32, ESP32, FreeRTOS**  
 Distributed embedded system with multitasking and Wi-Fi communication.  
 
-### Additional Projects
-Traffic Sign Recognition (CNN), Stock Price Prediction (LSTM), 4-DOF Robotic Arm, Water Quality Analysis, Intelligent Seismic Detection  
-
----
-
-## 🏆 Certifications
-- Coursera, DataCamp, DeepLearning.AI, Udemy  
-- Examples: Introduction to AUTOSAR, Automotive Embedded Systems, Machine Learning, Linear Algebra, SQL, Linux, Git  
+ 
+ 
 
 ---
 
